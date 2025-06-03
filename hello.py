@@ -1,1 +1,3 @@
-print("Hello world")
+def helloPython(n):
+  for i in range(n):
+    print("Hello world!")
